@@ -4,6 +4,7 @@ import 'package:glassmorphism_widgets/glassmorphism_widgets.dart';
 import 'package:inews/pages/front.dart';
 import 'package:url_launcher/url_launcher.dart';
 
+// ignore: must_be_immutable
 class full_content extends StatelessWidget {
   var imagea;
   var headline;

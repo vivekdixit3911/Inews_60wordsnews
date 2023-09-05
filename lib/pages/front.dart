@@ -60,7 +60,10 @@ class _landingpageState extends State<landingpage> {
         url = await data["articles"][i]["url"];
         var url2 = Uri.parse("$url");
         pages.add(full_content(
-            imagea: imagea, headline: headline, cont: cont, url2: url2));
+            imagea: imagea,
+            headline: headline,
+            cont: cont,
+            url2: url2) as Widget);
       }
 
       setState(() {});
