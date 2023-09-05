@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "484067166059",
+    "project_id": "inews-45efe",
+    "storage_bucket": "inews-45efe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484067166059:android:0cb9ff469f372c2f452e2e",
+        "android_client_info": {
+          "package_name": "com.example.inews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484067166059-fosb0b0ndndqpfkgm2bs1121ikg9v4gu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoWeUkQhgjBoCxjXQKk7PaOScOg17i4AY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484067166059-fosb0b0ndndqpfkgm2bs1121ikg9v4gu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
